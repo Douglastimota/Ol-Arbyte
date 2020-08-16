@@ -1,2 +1,0 @@
-# Ol-Arbyte
-Olá Arbyte
